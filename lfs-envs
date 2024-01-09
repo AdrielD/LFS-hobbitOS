@@ -1,0 +1,1 @@
+sh -c 'export LFS=/home/dinellian/dev/LFS-hobbitOS/hobbit-os'
